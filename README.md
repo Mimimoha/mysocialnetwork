@@ -18,3 +18,9 @@ and they are able to successfully create and delete reactions to thoughts and ad
 
 
 
+## Walkthrough video link 
+[Walkthrough video pt1](https://github.com/Mimimoha/mysocialnetwork/blob/main/Mongoose%20pt1.mp4)
+
+[Walkthrough video pt2](https://github.com/Mimimoha/mysocialnetwork/blob/main/Mongoose%20pt2.mp4)
+
+note: the repo has two videos, i was unable to fit all the steps in one video so i made two parts.
